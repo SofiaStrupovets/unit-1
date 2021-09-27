@@ -2,9 +2,9 @@ Question 1: Do you think it is necessary to involve the shop owner during the pr
 
 In my opinion, it's better to involve shop owner during the process, because he is a client and he is paying for this game, therefore he should be satisfied with the result. By involving him during the process we can make sure that the owner doesn't have any objections about the game, and in case something is not right we will be able to change it.
 
-Question 2: Do you think it is necessary to create MVPs for your game? If so, what would some of the MPV look like and what do you expect to obtain from the client?
+Question 2: Do you think it is necessary to create MVPs for your game? If so, what would some of the MVP look like and what do you expect to obtain from the client?
 
-I think that MPVs can make it significantly easier to create the perfect game which the client will enjoy. For a MPV we can create a small code which will basically explain the plot of a game, contact the client and if he's satisfied we can simply add more storylines and develop out game. For this we need the client's feedback on the game's idea and storyline
+I think that MVPs can make it significantly easier to create the perfect game which the client will enjoy. For a MPV we can create a small code which will basically explain the plot of a game, contact the client and if he's satisfied we can simply add more storylines and develop out game. For this we need the client's feedback on the game's idea and storyline
 
 Question 3: Do you see similarities between the Human-Centered Design cycle presented in the video and the Design Cycle we use for developing software? Explain.
 
