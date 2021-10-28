@@ -4,7 +4,7 @@ Planning, design, development, evaluation, implementation
 
 ### Q2:
 
-The promise you make as a developer and what the client is expecting to receive
+To define whether the project is succesful or not
 
 ### Q3:
 
